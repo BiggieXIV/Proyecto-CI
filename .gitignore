@@ -1,0 +1,20 @@
+# Secretos
+
+.env
+*.txt
+
+# Registros
+
+*.log
+
+!importante.log
+
+# Carpetas generadas
+
+temp/
+
+node_modules/
+
+# Sistema
+
+Thumbs.db
